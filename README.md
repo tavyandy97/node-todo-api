@@ -20,6 +20,7 @@ Todo REST API allows you to register yourself as a user and then create your own
 
 ## File Structure
 
+```
 +-- package.json
 +-- package.json
 +-- .gitignore
@@ -32,6 +33,9 @@ Todo REST API allows you to register yourself as a user and then create your own
 |   |	+-- user.js
 |   |	+-- todo.js
 |   +-- server.js
+```
+
+
 
 -------
 
